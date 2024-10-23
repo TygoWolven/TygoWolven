@@ -29,7 +29,7 @@ const tygo = {
           },
   languages: {
                 code: [HTML, CSS, Javascript},
-                frameworks: [Sveltekit, Astro]
+                tools: [Sveltekit, Astro, NodeJS, Netlify]
               }
 }
 ````
