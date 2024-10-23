@@ -18,32 +18,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Ik kom uit de Zaanstreek, uit het dorp Krommenie <br><br>- 🔭 Ik ben momenteel nog werkzaam als barman. <br>- 📚 Ik studeer aan de HvA, bij de opleiding Frontend Design & Development. <br>- ⚡ In mijn vrijde tijd houd ik mij graag bezig met sociale activiteiten.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-### 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TygoWolven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+````js
+const tygo = {
+  about: {
+            age: "20"
+            height: "190cm"
+            work: "Barkeeper"
+            hometown: "Zaanstad, Krommenie"
+            study: "Frontend Design & Development"
+          },
+  languages: {
+                code: [HTML, CSS, Javascript},
+                frameworks: [Sveltekit, Astro]
+              }
+}
+````
