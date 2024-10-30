@@ -36,25 +36,26 @@ const tygo = {
 
 <h2>Mijn gepinde repositories!</h2>
 
+**TW-Productions.-Portfolio:** <br>
+Dit is mijn portfolio! Echter is dit nog wel een <br>
+*"Work in progress"* dus verwacht niet te veel.
+
 **Jaar2-Learning-Blog:** <br>
-Voor mijn tweede jaar van de opleiding moesten we een website maken waarin <br>
-we ons leerproces konden bijhouden. Bij mij is dit een soort blog geworden.
+Deze website is mijn blog waarin ik het leerproces documenteer van mijn <br>
+opleiding. Dit gaat over het tweede jaar van *"Frontend Design & Development.
 
 **Sprint12-Proof-of-Concept:** <br>
-Voor deze website was het de bedoeling om een interface te maken waarbij <br>
-werknemers van Fresk Digital de statistieken konden vinden van hun website.
+Voor Fresk Digital heb ik een dashboard moeten maken met daarin de statistieken <br>
+van het bedrijf. Deze moesten alleen toegankelijk zijn voor de werknemers van Fresk.
 
 **Sprint10-Enhanced-Website:** <br>
-In deze repository heb ik een website gemaakt dat gaat over verschillende <br>
-buurtinitiatieven voor de regio Amsterdam-West. Dit heeft alles te maken met <br>
-het bedrijf van de opdrachtgever.
+Een soort marktplaats, maar dan voor buurtinitiatieven in de regio Amsterdam-West. <br>
+Dit heeft alles te maken met het bedrijf van de opdrachtgever, De Hallen.
 
 **Sprint7-Squadpage:** <br>
-Hier is een hele vette squadpage te vinden, waarin alle leerlingen van onze klas <br>
-te vinden zijn. Ik heb dit vormgegeven als ruimte met een planeet en vele sterren, <br>
-waarbij iedere ster een leerling is die op een willekeurige locatie komt te staan!
+Maak je reis naar de ruimte, en zie een vette squadpage met alle leerlingen van mijn eerstejaars <br>
+klas. Iedere ster is een leerling die bij elke refresh een willekeurige locatie krijgt!
 
 **Sprint6-Responsive-Interactive-Website:** <br>
-Ik had de opdracht gekregen om een paar landingspagina's te maken waar je terecht zou <br>
-komen als je op de advertentie van het BNR zou klikken. Door op het logo van het BNR <br>
-te klikken ga je naar de andere landingspagina.
+Mocht je advertenties tegenkomen van de Business News Radio, en klik je erop, dan zou je bij één van <br>
+deze landingspagina's uit moeten komen... althans... dat is het concept natuurlijk.
