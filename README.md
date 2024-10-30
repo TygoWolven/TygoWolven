@@ -38,11 +38,13 @@ const tygo = {
 
 **TW-Productions.-Portfolio:** <br>
 Dit is mijn portfolio! Echter is dit nog wel een <br>
-*"Work in progress"* dus verwacht niet te veel.
+*"Work in progress"* dus verwacht niet te veel. <br>
+https://twproductions-portfolio.netlify.app/
 
 **Jaar2-Learning-Blog:** <br>
 Deze website is mijn blog waarin ik het leerproces documenteer van mijn <br>
-opleiding. Dit gaat over het tweede jaar van *"Frontend Design & Development.
+opleiding. Dit gaat over het tweede jaar van *"Frontend Design & Development. <br>
+https://tygowolven-learning-blog.netlify.app/
 
 **Sprint12-Proof-of-Concept:** <br>
 Voor Fresk Digital heb ik een dashboard moeten maken met daarin de statistieken <br>
