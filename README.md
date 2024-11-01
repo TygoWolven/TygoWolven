@@ -57,7 +57,8 @@ Dit heeft alles te maken met het bedrijf van de opdrachtgever, De Hallen.
 
 **Sprint7-Squadpage:** <br>
 Maak je reis naar de ruimte, en zie een vette squadpage met alle leerlingen van mijn eerstejaars <br>
-klas. Iedere ster is een leerling die bij elke refresh een willekeurige locatie krijgt!
+klas. Iedere ster is een leerling die bij elke refresh een willekeurige locatie krijgt! <br>
+https://sprint7-squadpage.onrender.com/
 
 **Sprint6-Responsive-Interactive-Website:** <br>
 Mocht je advertenties tegenkomen van de Business News Radio, en klik je erop, dan zou je bij één van <br>
