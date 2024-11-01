@@ -60,4 +60,5 @@ klas. Iedere ster is een leerling die bij elke refresh een willekeurige locatie 
 
 **Sprint6-Responsive-Interactive-Website:** <br>
 Mocht je advertenties tegenkomen van de Business News Radio, en klik je erop, dan zou je bij één van <br>
-deze landingspagina's uit moeten komen... althans... dat is het concept natuurlijk.
+deze landingspagina's uit moeten komen... althans... dat is het concept natuurlijk. <br>
+https://tygowolven.github.io/Sprint6-Responsive-Interactive-Website/
