@@ -53,7 +53,8 @@ https://sprint12-proof-of-concept.onrender.com/
 
 **Sprint10-Enhanced-Website:** <br>
 Een soort marktplaats, maar dan voor buurtinitiatieven in de regio Amsterdam-West. <br>
-Dit heeft alles te maken met het bedrijf van de opdrachtgever, De Hallen.
+Dit heeft alles te maken met het bedrijf van de opdrachtgever, De Hallen. <br>
+https://sprint10-enhanced-website.onrender.com/
 
 **Sprint7-Squadpage:** <br>
 Maak je reis naar de ruimte, en zie een vette squadpage met alle leerlingen van mijn eerstejaars <br>
