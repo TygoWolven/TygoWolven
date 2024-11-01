@@ -48,7 +48,8 @@ https://tygowolven-learning-blog.netlify.app/
 
 **Sprint12-Proof-of-Concept:** <br>
 Voor Fresk Digital heb ik een dashboard moeten maken met daarin de statistieken <br>
-van het bedrijf. Deze moesten alleen toegankelijk zijn voor de werknemers van Fresk.
+van het bedrijf. Deze moesten alleen toegankelijk zijn voor de werknemers van Fresk. <br>
+https://sprint12-proof-of-concept.onrender.com/
 
 **Sprint10-Enhanced-Website:** <br>
 Een soort marktplaats, maar dan voor buurtinitiatieven in de regio Amsterdam-West. <br>
