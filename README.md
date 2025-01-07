@@ -9,13 +9,16 @@ const tygo = {
             height: "190cm"
             work: "Barkeeper"
             hometown: "Zaanstad, Krommenie"
-            study: "Frontend Design & Development"
           },
   languages: {
                 code: [HTML, CSS, Javascript},
                 tools: [Sveltekit, Astro, NodeJS, Netlify]
-              }
-}
+              },
+  studies: {
+            Communication and Multimedia Design,
+            Frontend Design and Development
+           };
+};
 ````
 
 ###
