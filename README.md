@@ -1,4 +1,4 @@
-<h1>Hi! Ik ben Tygo Wolven 👋</h1>
+<h1>Hi! I am Tygo Wolven 👋</h1>
 
 ###
 
@@ -6,17 +6,20 @@
 const tygo = {
   about: {
             age: "20"
-            height: "190cm"
-            work: "Barkeeper"
+            height: "192cm"
+            current-work: "Barkeeper"
             hometown: "Zaanstad, Krommenie"
           },
-  languages: {
-                code: [HTML, CSS, Javascript},
-                tools: [Sveltekit, Astro, NodeJS, Netlify]
-              },
+  code: {
+           code: [HTML, CSS, Javascript},
+           tools: [GSAP, Lenis],
+           frameworks: [Sveltekit, Astro, VueJS, NodeJS],
+           deployments: [Vercel, Netlify]
+        },
   studies: {
-            Communication and Multimedia Design,
-            Frontend Design and Development
+            HAVO Computer Science,
+            HBO Communication and Multimedia Design,
+            HBO Frontend Design and Development
            };
 };
 ````
