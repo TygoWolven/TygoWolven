@@ -42,20 +42,25 @@ const tygo = {
 
 <h2>My pinned repositories! (WIP)</h2>
 
-**TW-Productions.-Portfolio:** <br>
-
+**TygoWolven-Portfolio:** <br>
+My current portfolio
+https://tygowolven.netlify.app/
 
 **Jaar2-Learning-Blog:** <br>
 
 
 **Sprint12-Proof-of-Concept:** <br>
 Fresk Digital
+https://sprint12-proof-of-concept.onrender.com/
 
 **Sprint10-Enhanced-Website:** <br>
-De Hallen Amsterdam West.
+De Hallen Amsterdam West
+https://sprint10-enhanced-website.onrender.com/
 
 **Sprint7-Squadpage:** <br>
-
+Squadpage
+https://sprint7-squadpage.onrender.com/#
 
 **Sprint6-Responsive-Interactive-Website:** <br>
 Business News Radio
+https://tygowolven.github.io/Sprint6-Responsive-Interactive-Website/
